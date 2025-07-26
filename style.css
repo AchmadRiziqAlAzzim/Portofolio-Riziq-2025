@@ -3811,6 +3811,25 @@ textarea {
     list-style: none;
 }
 
+#section7 {
+    position: relative;
+    top: 110rem !important;
+    left: 0;
+    opacity: 0;
+}
+
+#section8 {
+    top: 110rem;
+    opacity: 0;
+    left: 0;
+}
+
+#section9 {
+    top: -41rem;
+    /* opacity: 0; */
+    left: 0;
+}
+
 /* #content-main-video {
     width: 700px !important;
 } */
