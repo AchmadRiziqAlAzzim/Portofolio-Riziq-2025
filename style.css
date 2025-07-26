@@ -3806,3 +3806,11 @@ textarea {
 .paragraf_mobile {
     opacity: 0;
 }
+
+.Loading_Screen ul li {
+    list-style: none;
+}
+
+/* #content-main-video {
+    width: 700px !important;
+} */
