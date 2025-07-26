@@ -23,7 +23,7 @@
 
 .bg-running-text .Skil-1 img {
     position: relative;
-    top: -15px;
+    top: -5px;
     width: 49px;
     filter: brightness(0.8) contrast(1.2) grayscale(100%);
     mix-blend-mode: lighten;
@@ -32,7 +32,7 @@
 
 .bg-running-text .Skil-1 a {
     position: relative;
-    top: -43px;
+    top: -21px;
     right: -17px;
     color: #444444;
     font-weight: bold;
@@ -53,16 +53,16 @@
 
 .bg-running-text .Skil-2 img {
     position: relative;
-    top: -14px;
+    top: -10px;
     left: 14px;
-    width: 40px;
+    width: 35px;
     filter: brightness(0.8) contrast(1.2) grayscale(100%);
     mix-blend-mode: lighten;
 }
 
 .bg-running-text .Skil-2 a {
     position: relative;
-    top: -32px;
+    top: -27px;
     right: -35px;
     color: #444444;
     font-weight: bold;
