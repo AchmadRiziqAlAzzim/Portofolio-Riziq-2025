@@ -39,7 +39,7 @@ header nav {
 
 .logo h1 {
     position: fixed;
-    top: 1.5rem;
+    top: 1.7rem;
     left: 11rem;
     color: #1f1e24;
     width: 200px;
@@ -3830,6 +3830,9 @@ textarea {
     left: 0;
 }
 
-/* #content-main-video {
-    width: 700px !important;
-} */
+.content-1 video {
+    position: absolute;
+    top: 13rem;
+    right: 4rem;
+    width: 620px !important;
+}
