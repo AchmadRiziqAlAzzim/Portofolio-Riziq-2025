@@ -3091,7 +3091,7 @@ textarea {
 .main-AI {
     position: relative;
     right: -15rem;
-    bottom: 37rem;
+    bottom: 58rem;
     width: 1000px;
     height: 500px;
     border-radius: 10px;
@@ -3259,7 +3259,7 @@ textarea {
 
 .head-AI {
     position: relative;
-    top: -39.5rem;
+    top: -60.5rem;
     right: -32rem;
     font-size: 40px;
     font-weight: bold;
@@ -3835,4 +3835,174 @@ textarea {
     top: 13rem;
     right: 4rem;
     width: 620px !important;
+}
+
+#section5 {
+    background-color: #ffffff;
+    height: 100px;
+}
+
+.footer {
+    position: relative;
+    bottom: -230.5dvh;
+    width: 208.5dvh;
+    height: 40dvh;
+    left: 50%;
+    transform: translateX(-50%);
+    border-top: solid 3px #1f1e24;
+}
+
+.logo-footer {
+    position: relative;
+    right: -6rem;
+    bottom: -1rem;
+    width: 100px;
+}
+
+.name-footer {
+    position: relative;
+    font-size: 20px;
+    top: -4rem;
+    left: 12rem;
+    letter-spacing: 3px;
+}
+
+.footer-p {
+    position: relative;
+    color: #1f1e24;
+    text-align: start;
+    width: 370px;
+    left: 7.5rem;
+    top: -3.5rem;
+    font-weight: 500;
+}
+
+.sosial-footer ul {
+    position: relative;
+    top: -3rem;
+    right: -5rem;
+    gap: 1rem;
+}
+
+.sosial-footer ul li {
+    position: relative;
+    font-size: 20px;
+    padding: 10px;
+    padding-left: 17px;
+    border: solid 3px #1f1e24;
+    border-radius: 10px;
+    text-align: center !important;
+    cursor: pointer;
+    box-shadow: 0 4px 0;
+    transition: 0.3s ease;
+}
+
+.sosial-footer ul li:active {
+    transition: 0.3s ease;
+    color: white;
+    background-color: #1f1e24;
+    box-shadow: 0 1px 0;
+}
+
+.result {
+    display: none;
+}
+
+.head-serti {
+    position: relative;
+    right: -30rem;
+    top: 87rem;
+    font-size: 35px;
+    letter-spacing: 5px;
+}
+
+.serti {
+    position: relative;
+    right: -29rem;
+    bottom: -90rem;
+    width: 600px;
+    border-radius: 15px;
+}
+
+.Information {
+    position: relative;
+    top: -15rem;
+}
+
+.info {
+    top: -1.5rem;
+    right: -35rem;
+    letter-spacing: 5px;
+}
+
+.Information ul {
+    position: relative;
+    top: -1.5rem;
+    right: -35.5rem;
+    list-style: none;
+}
+
+.Information ul li {
+    padding-bottom: 15px;
+    font-size: 18px;
+    font-family: 'poppins', sans-serif;
+    font-weight: 500;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+.Project {
+    position: relative;
+    top: -29.5rem;
+}
+
+.Pj {
+    top: -1.5rem;
+    right: -56rem;
+    letter-spacing: 5px;
+}
+
+.Project ul {
+    position: relative;
+    top: -1.5rem;
+    right: -10.5rem;
+    list-style: none;
+}
+
+.Project ul li {
+    padding-bottom: 15px;
+    font-size: 18px;
+    font-family: 'poppins', sans-serif;
+    font-weight: 500;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.fitur {
+    position: relative;
+    top: -44rem;
+}
+
+.Fe {
+    top: -1.5rem;
+    right: -74.4rem;
+    letter-spacing: 5px;
+}
+
+.fitur ul {
+    position: relative;
+    top: -1.5rem;
+    right: -31.5rem;
+    list-style: none;
+}
+
+.fitur ul li {
+    padding-bottom: 15px;
+    font-size: 18px;
+    font-family: 'poppins', sans-serif;
+    font-weight: 500;
+    letter-spacing: 1px;
+    cursor: pointer;
+    text-align: center;
 }
