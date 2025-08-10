@@ -1,4 +1,4 @@
-@media screen and (min-width: 320px) and (max-width: 426px) {
+@media screen and (min-width: 320px) and (max-width: 506px) {
     body .content-1 video {
         position: absolute !important;
         top: 15dvh;
@@ -869,7 +869,7 @@
     position: relative;
     left: 16%;
     font-size: 20px;
-    top: -105rem;
+    top: -57rem;
     transform: translateX(-50%);
 }
 
@@ -878,7 +878,11 @@
     left: 30%;
     transform: translateX(-50%);
     font-size: 20px;
-    top: -68rem;
+    top: -20rem;
+}
+
+.Head-Bar-Option{
+    display: none;
 }
 
 .countdown {
@@ -943,16 +947,78 @@
     display: none;
 }
 
-.container-images {
+.head-image {
     position: absolute;
-    top: -178rem;
-    width: 1380px;
-    height: 600px;
-    margin: 5rem;
-    background-color: #ffffff;
-    overflow: hidden;
+    top: -78rem;
 }
-      
+
+.container-images {
+    display: none;
+}
+
+.button-6 {
+    display: none;
+}
+
+.button-7 {
+    display: none;
+}
+
+.button-8 {
+    display: none;
+}
+
+.button-3 {
+    display: none;
+}
+
+.button-4 {
+    display: none;
+}
+
+.button-5 {
+    display: none;
+}
+
+.head-image{
+    display: none;
+}
+
+.head-contact {
+    position: relative;
+    font-size: 20px;
+    width: 360px;
+    top: 110rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#icon_16 {
+    position: relative;
+    left: 0.2rem;
+}
+
+.main-contact {
+    background-color: aqua;
+    width: 100dvh;
+    position: relative;
+    top: -90rem;
+    left: -20rem;
+}
+
+.value-1 {
+    width: 320px;
+}
+
+.value-2 {
+    width: 320px;
+}
+
+
+
+
+
+
 
 
 
